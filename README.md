@@ -3,6 +3,16 @@
 
 This project is a credit card fraud detection system using Logistic Regression, built with Streamlit for easy interaction. The model is trained on an imbalanced dataset using SMOTE to balance classes and evaluated using classification metrics and ROC-AUC curves.
 
+## 📂 Dataset
+
+The dataset used is creditcard.csv, sourced from Kaggle.
+
+✦ It contains transactions labeled as:
+
+0 → Non-Fraudulent transaction
+
+1 → Fraudulent transaction
+
 ## 📌Features
 
 ✦ SMOTE to handle class imbalance,LogisticRegression for training
@@ -23,9 +33,9 @@ This project is a credit card fraud detection system using Logistic Regression, 
 
 | Metric           |   Score   |
 |-------------------- |  ----------- |
-| **Accuracy**     |   95.6%   |
-| **F1-Score**     |   92.3%   |
-| **ROC-AUC**      |    96.1%   |
+| **Accuracy**     |   96.6 %   |
+| **F1-Score**     |   95 %   |
+| **ROC-AUC**      |    94 %   |
 
 ## 🔧 Installation & Setup
 
