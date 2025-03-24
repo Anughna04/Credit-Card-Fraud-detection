@@ -19,7 +19,7 @@ This project is a credit card fraud detection system using Logistic Regression, 
       
 ## 📈Performance Metrics
 
-✦see the classification report and roc-auc graph in [fraud detection(credit card).ipynb](fraud detection(credit card).ipynb)
+✦see the classification report and roc-auc graph in [fraud detection(credit card).ipynb].(fraud detection(credit card).ipynb).
 
 | Metric           |   Score   |
 |-------------------- |  ----------- |
