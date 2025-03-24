@@ -1,8 +1,9 @@
 # Credit-card-Fraud-detection
 ## Overview 
+
 This project is a credit card fraud detection system using Logistic Regression, built with Streamlit for easy interaction. The model is trained on an imbalanced dataset using SMOTE to balance classes and evaluated using classification metrics and ROC-AUC curves.
 
-**📌Features**
+## 📌Features
 
 ✦ SMOTE to handle class imbalance,LogisticRegression for training
 
@@ -16,8 +17,9 @@ This project is a credit card fraud detection system using Logistic Regression, 
 
 ✦ Performance evaluation using Accuracy, Classification Report, and ROC-AUC.
       
-**📈Performance Metrics**
-see the classification report and roc-auc graph in [fraud detection(credit card).ipynb](fraud detection(credit card).ipynb)
+## 📈Performance Metrics
+
+✦see the classification report and roc-auc graph in [fraud detection(credit card).ipynb](fraud detection(credit card).ipynb)
 
 | Metric           |   Score   |
 |-------------------- |  ----------- |
@@ -25,7 +27,7 @@ see the classification report and roc-auc graph in [fraud detection(credit card)
 | **F1-Score**     |   92.3%   |
 | **ROC-AUC**      |    96.1%   |
 
-**🔧 Installation & Setup**
+## 🔧 Installation & Setup
 
 1. Clone the Repository
 
@@ -42,26 +44,27 @@ see the classification report and roc-auc graph in [fraud detection(credit card)
 
 This will launch the fraud detection web app.
 
-📧 For any queries, contact me at [anughnakandimalla11@gmail.com](anughnakandimalla11@gmail.com).
+### 📧 For any queries, contact me at [anughnakandimalla11@gmail.com](anughnakandimalla11@gmail.com).
 
-**Tools & Technologies Used**
+## Tools & Technologies Used
 
-💻 Programming: Python
+ ✦ Programming: Python
 
-📊 Data Processing: Pandas, NumPy
+ ✦ Data Processing📊: Pandas, NumPy
 
-📉 Data Visualization: Matplotlib
+ ✦ Data Visualization📉: Matplotlib
 
-🤖 Machine Learning: Scikit-learn
+ ✦ Machine Learning: Logistic Regression
 
-⚖️ Class Imbalance Handling: SMOTE (imbalanced-learn)
+ ✦ Class Imbalance Handling: SMOTE (imbalanced-learn)
 
-🗂️ Model Persistence: Joblib
+ ✦ Model Persistence: Joblib
 
-🌐 Web App Framework: Streamlit
+ Web App Framework: Streamlit🌐
 
 
-**👩‍💻Author**
+## 👩‍💻Author
+
 Anughna
 
 
