@@ -58,7 +58,7 @@ This will launch the fraud detection web app.
 
 ## Tools & Technologies Used
 
- ✦ Programming: Python
+✦ Programming: Python
 
  ✦ Data Processing📊: Pandas, NumPy
 
